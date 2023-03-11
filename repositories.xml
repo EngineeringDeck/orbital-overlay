@@ -1,0 +1,14 @@
+<?xml version="1.0" ?>
+<repositories version="1.0">
+  <repo quality="experimental" status="unofficial">
+    <name>orbital</name>
+      <description lang="en">Projects and their dependencies from the Observation Deck</description>
+        <homepage>https://github.com/EngineeringDeck/orbital-overlay</homepage>
+        <owner type="person">
+            <name>ObserverHerb</name>
+            <email>observerherb@vivaldi.net</email>
+        </owner>
+        <source type="git">git://github.com/EngineeringDeck/orbital-overlay.git</source>
+        <feed>https://github.com/EngineeringDeck/orbital-overlay/commits/master.atom</feed>
+  </repo>
+</repositories>
